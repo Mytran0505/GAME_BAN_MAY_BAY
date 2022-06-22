@@ -1,0 +1,11 @@
+﻿  ThreatsObject.cpp
+D:\UITer\CODE GAME 2D\GAME1\GAME1\ThreatsObject.cpp(7,26): warning C4244: '=': conversion from 'double' to 'Sint16', possible loss of data
+D:\UITer\CODE GAME 2D\GAME1\GAME1\ThreatsObject.cpp(16,21): warning C4018: '<': signed/unsigned mismatch
+D:\UITer\CODE GAME 2D\GAME1\GAME1\ThreatsObject.cpp(35,39): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+D:\UITer\CODE GAME 2D\GAME1\GAME1\ThreatsObject.cpp(49,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\UITer\CODE GAME 2D\GAME1\GAME1\ThreatsObject.cpp(59,20): warning C4018: '<': signed/unsigned mismatch
+D:\UITer\CODE GAME 2D\GAME1\GAME1\ThreatsObject.cpp(68,40): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+D:\UITer\CODE GAME 2D\GAME1\GAME1\ThreatsObject.cpp(77,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\UITer\CODE GAME 2D\GAME1\GAME1\ThreatsObject.cpp(79,20): warning C4018: '<': signed/unsigned mismatch
+D:\UITer\CODE GAME 2D\GAME1\GAME1\ThreatsObject.cpp(88,37): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+  GAME1.vcxproj -> D:\UITer\CODE GAME 2D\GAME1\Debug\GAME1.exe
